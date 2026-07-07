@@ -1,6 +1,6 @@
 # Market Entry Risk and Opportunity Analyzer
 
-Built by **Shruti Agarwal** (LL.M., Commercial and Corporate Law, Queen Mary University of London) — a strategy consulting workflow for assessing whether a company should enter a new geography, sector, or product market, combining market research, regulatory risk assessment, and structured recommendation writing.
+Built by **Shruti Agarwal** (LL.M., Commercial and Corporate Law, Queen Mary University of London), a strategy consulting workflow for assessing whether a company should enter a new geography, sector, or product market, combining market research, regulatory risk assessment, and structured recommendation writing.
 
 ## Recruiter Signal (Strategy / Market Entry Analyst)
 
