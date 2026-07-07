@@ -1,17 +1,17 @@
 # Market Entry Risk and Opportunity Analyzer
 
-Consulting analyst workflow for assessing whether a company should enter a new geography, sector or product market.
+Built by **Shruti Agarwal** (LL.M., Commercial and Corporate Law, Queen Mary University of London) — a strategy consulting workflow for assessing whether a company should enter a new geography, sector, or product market, combining market research, regulatory risk assessment, and structured recommendation writing.
 
-## Recruiter Signal
+## Recruiter Signal (Strategy / Market Entry Analyst)
 
-This project shows business consulting judgment: problem structuring, issue trees, market-entry analysis, risk assessment, recommendation writing and assumption discipline.
+This project demonstrates business consulting judgment: **market research**, problem structuring, issue trees, **regulatory intelligence**, **risk assessment**, **due diligence**, recommendation writing, and assumption discipline.
 
-It is designed for roles such as:
+Built for roles such as:
 
-- Consulting Analyst
 - Strategy Analyst
-- Business Analyst
+- Consulting Analyst
 - Market Research Analyst
+- Business Analyst
 - Growth / Expansion Analyst
 
 ## Inputs
@@ -20,7 +20,7 @@ It is designed for roles such as:
 - Target geography
 - Sector
 - Known constraints
-- Source notes from public reports, regulator pages, news or company disclosures
+- Source notes from public reports, regulator pages, news, or company disclosures
 - Assumptions and missing evidence
 
 ## Outputs
@@ -35,7 +35,7 @@ It is designed for roles such as:
 
 ## Why This Matters
 
-Consulting and strategy roles require more than a generic recommendation. A strong analyst must define the market-entry question, structure the issue tree, score opportunity and risk, identify missing evidence and convert findings into a practical next-step plan.
+Consulting and strategy roles require more than a generic recommendation. A strong analyst must define the market-entry question, structure the issue tree, score opportunity and risk, identify missing evidence, and convert findings into a practical next-step plan, the same due-diligence discipline Shruti applied to cross-border (UAE/India) regulatory and commercial advisory work.
 
 ## Tech Stack
 
@@ -53,11 +53,14 @@ streamlit run app.py
 
 - CSV upload for competitor data
 - Source-link tracking for public evidence
-- Scenario model for base, upside and downside cases
+- Scenario model for base, upside, and downside cases
 - Export to DOCX/PDF
 - AI-assisted first draft based only on user-provided source notes
 
 ## Responsible AI Boundary
 
-The app should not invent market data. It should require source notes or clearly label assumptions when data is missing.
+The app does not invent market data. It requires source notes or clearly labels assumptions when data is missing.
 
+---
+
+Part of a 12-project portfolio spanning legal and business analysis domains: [github.com/Shrutiagarwal02](https://github.com/Shrutiagarwal02)
